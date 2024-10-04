@@ -2,10 +2,9 @@ public class First{
 
   public Static void main(String args[]){
 
-          System.out.println("Hello Everyone");
-          System.out.println("How Are You Guys");
-          System.out.println(".........update")
-        
+          int a=10;
+          int b=20;
+          System.out.println(a+b);
           
 }
     }
